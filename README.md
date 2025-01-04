@@ -7,6 +7,6 @@ This repo is for practicing github flow
 - 📫 you can reach me on twitter - @pubgocto
 
 <!---
-venkat0501/venkat0501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sidkayy/sidkayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
